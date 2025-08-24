@@ -1,84 +1,72 @@
 # 🤖 Claude Code Agents by Kevin Bell
 
-  *Productivity agents built by a full-time cop who codes before you wake up 👮‍♂️💻*
+  *Productivity agents built by a full-time cop who codes before dawn 👮‍♂️💻*
 
   Transform your Claude Code experience with these battle-tested productivity agents.
 
-  ## 🚀 Available Agents
+  ## 🚀 Quick Install
 
-  ### 📱 App Progress Tracker
-  **What it does:** Creates a visual dashboard to track all your development projects
+  **One command installs everything:**
+
+  `curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash`
+
+  **Then just ask Claude:**
+  - *"Create my app tracker"*
+  - *"Build my GitHub profile"*
+  - *"Update my project progress"*
+
+  ---
+
+  ## 📱 Available Agents
+
+  ### 📊 App Progress Tracker
+  **What it does:** Creates visual dashboards to track all your development projects
+  **Usage:** *"Create app tracker"* or *"Update my project progress"*
   **Perfect for:** Developers juggling multiple apps and wanting to stay organized
-  **Download:** [app-progress-tracker.mdc](./app-progress-tracker.mdc)
 
   ### 🎯 GitHub Profile Generator
-  **What it does:** Generates epic auto-updating GitHub profiles like mine
+  **What it does:** Generates epic auto-updating GitHub profiles
+  **Usage:** *"Create GitHub profile"* or *"Build my profile"*
   **Perfect for:** Developers who want a professional GitHub presence
-  **Download:** [github-profile-generator.mdc](./github-profile-generator.mdc)
 
-  ## 📦 How to Install & Use
+  ---
 
-  ### Method 1: Quick Install
-  1. **Download the `.mdc` file** (click the link above)
-  2. **Save it to your Claude Code rules folder**
-  3. **Ask Claude to use it:** "Create my app progress tracker" or "Build my GitHub profile"
+  ## 🛠️ Manual Installation
 
-  ### Method 2: Copy & Paste
-  1. **Click on the agent file** you want
-  2. **Copy the entire contents**
-  3. **Create a new `.mdc` file** in your Claude Code rules directory
-  4. **Paste and save**
+  If the auto-installer doesn't work:
 
-  ## 🎯 Agent Descriptions
+  1. **Download the agent files:**
+     - [app-progress-tracker.mdc](./app-progress-tracker.mdc)
+     - [github-profile-generator.mdc](./github-profile-generator.mdc)
 
-  ### 📱 App Progress Tracker Agent
-  Usage: "Create app tracker" or "Update my project progress"
-  - Scans your development directories
-  - Creates visual progress bars and status tracking
-  - Organizes projects by development stage
-  - Includes 30-60-90 day planning
-  - Saves as a fun, fancy markdown file
+  2. **Copy to your Claude Code rules folder:**
+     - **Mac/Linux:** `~/.config/claude-code/rules/`
+     - **Windows:** `%APPDATA%/Claude Code/rules/`
 
-  ### 🎯 GitHub Profile Generator Agent
-  Usage: "Create GitHub profile" or "Build my profile"
-  - Generates complete auto-updating README
-  - Sets up GitHub Actions for YouTube/blog feeds
-  - Creates professional stats and badges
-  - Includes installation instructions
-  - Builds profiles that stand out
+  3. **Ask Claude to use them!**
+
+  ---
 
   ## 🌟 Why These Agents?
 
   - ✅ **Battle-Tested** - I use these daily in my development workflow
   - ✅ **Real Problems** - Built to solve actual developer pain points
-  - ✅ **Night-Coder Approved** - Perfect for busy developers building on the side
+  - ✅ **Early Bird Approved** - Perfect for busy developers building on the side
   - ✅ **Open Source** - Free for the community, always
 
-  ## 🔮 Coming Soon
+  ---
 
-  - 🗂️ **Project Setup Agent** - Bootstrap new projects instantly
-  - 📝 **Documentation Generator** - Auto-create README files
-  - 🚀 **Deploy Helper Agent** - Streamline deployment workflows
-  - 🐛 **Bug Tracker Agent** - Manage issues across projects
-
-  ## 🤝 Contributing
-
-  Got ideas? Found bugs? Want to build an agent together?
-
-  - 🐛 **Report Issues:** [Open an issue](https://github.com/Kettlebell319/claude-agents/issues)
-  - 💡 **Request Features:** Tell me what agents you need
-  - 🚀 **Submit Agents:** Share your own agent creations
-
-  ## 💬 Connect
+  ## 💬 Connect & Support
 
   - 🎥 **YouTube:** [@OfficialKevinBell](https://www.youtube.com/@OfficialKevinBell) - Development
   tutorials
   - 🐦 **Twitter:** [@kevinasrx](https://x.com/kevinasrx) - Quick updates and tips
-  - 💻 **GitHub:** Follow for more tools and projects
+  - 💻 **GitHub:** [Kettlebell319](https://github.com/Kettlebell319) - More tools and projects
+  - 🐛 **Issues:** [Report bugs or request features](https://github.com/Kettlebell319/claude-agents/issues)
 
   ---
 
-  *From one early morning coder to another - happy building! 🌙💻*
+  *From one early morning coder to another - happy building! 🌅☕*
 
-  **P.S.** If you're reading this at 3 AM while your kids are asleep, you're my people. These agents are
-  built for ambitious builders like us.
+  **P.S.** If you're reading this at 5 AM with a cup of coffee, you're my people. These agents are built
+  for ambitious builders like us.
