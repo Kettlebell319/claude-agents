@@ -78,7 +78,7 @@
 
   ---
 
-  *From one night coder to another - happy building! 🌙💻*
+  *From one early morning coder to another - happy building! 🌙💻*
 
   **P.S.** If you're reading this at 3 AM while your kids are asleep, you're my people. These agents are
   built for ambitious builders like us.
